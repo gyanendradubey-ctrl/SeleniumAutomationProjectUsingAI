@@ -1,0 +1,1 @@
+we have to generate a selenium automation framework from sratch for the salesforce.com where you need to add two-page object model,proper production ready. 
